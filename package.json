@@ -1,0 +1,34 @@
+{
+  "name": "academia-diballu",
+  "version": "1.0.1",
+  "description": "academia de danza y baile",
+  "main": "npmfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Guerra-666/Di_Ballu_Academy"
+  },
+  "keywords": [
+    "baile",
+    "danza",
+    "academia danza"
+  ],
+  "author": "Adrian Guerra",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/Guerra-666/Di_Ballu_Academy",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.25.0"
+  },
+  "dependencies": {
+    "animate.css": "^3.7.2",
+    "bootstrap": "^3.4.1",
+    "font-awesome": "^4.7.0",
+    "waypoints": "^4.0.1"
+  }
+}
